@@ -1,6 +1,7 @@
 
 ### 文件路径
 
+```
 ├── dist
 │   ├── build.js
 │   ├── index.html
@@ -29,3 +30,4 @@
 │   ├── dev.js
 │   └── pro.js
 └── yarn.lock
+```
